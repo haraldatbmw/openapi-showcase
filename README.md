@@ -1,5 +1,5 @@
 # openapi-showcase
-This demo microservice uses a response envelop class with generics to get a specific JSON response.
+This demo microservice uses a response envelope class with generics to get a specific JSON response.
 The goal is to get a correct parsed OpenAPI definition by the application server.
 
 ## JSON response
