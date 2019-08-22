@@ -3,7 +3,9 @@ package de.test.openapishowcase;
 public class JsonData<T> {
     private T data;
 
-    public JsonData() {}
+    public JsonData() {
+    }
+    
     public JsonData(T data) {
         this.data = data;
     }
